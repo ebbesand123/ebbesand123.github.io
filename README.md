@@ -2,4 +2,4 @@
 
 ## Showcase
 
-Application: [vue-d](https://ebbesand123.github.io/vue-d)
+Application: [vue-d](https://github.com/ebbesand123/vue-d)
